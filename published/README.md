@@ -7,7 +7,7 @@ A collection of written works, organized by topic, written by me.
 
 * [Recommended reading](#recommended-reading)
 * [Cooking](#cooking)
-  * [Chicken, ham, and leek pie](#chicken-ham-and-leek-pie)
+  * [«Chicken, ham, and leek pie»](#chicken-ham-and-leek-pie)
 * [Countries](#countries)
   * [China](#china)
     * [«Li si, power, sinographs»](#li-si-power-sinographs)
@@ -39,7 +39,7 @@ writing.
 
 ## Cooking
 
-### Chicken, ham, and leek pie
+### «Chicken, ham, and leek pie»
 
 A recipe for chicken, ham, and leek pie, based onthe one by The Hairy Bikers
 found on BBC Good Food.
