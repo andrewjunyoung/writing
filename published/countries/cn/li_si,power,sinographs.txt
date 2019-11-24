@@ -1,0 +1,128 @@
+History is like a pendulum; it sways to and fro, but is destined to repeat
+itself as is has before. Our society suffers from too little precedent, but we
+have built up a library enough to see some clear trends.
+
+As a nation with historical emphasis on historical record keeping, China's
+history is deeply intertwined with writing. Scholars would learn and recite
+historical works, and until the 20 th century wrote using almost the same
+written grammar as their forefathers had for roughly 2000 years.
+
+Chinese history, through its cycles of construction, deconstruction, and
+revolution, has points in its history at crossroads. The decisions made at
+these crossroads in time lay the foundation for modern China, and at each such
+point the future could have led to a very different land to that we know now.
+
+One such event, which is the focus of this essay, concerns Lǐ Sī, first prime
+minister of the Qin dynasty (221 - 206 BCE). Lǐ Sī was appointed by the
+emperor, Qín Shǐ Huáng, following the latter's unification of China proper for
+the first time. Although the country was unified politically, it had previously
+been made up of the Zhōu states, which were governed independently and
+differed notably in culture. In fact, not only were they independent in
+culture, but also in writing system.
+
+Chinese characters by this point had evolved quite substantially since their
+gradual birth sometime before 1000 BCE. In particular, the characters were no
+longer simple pictographs, they had become ideographs. This meant that, in
+addition to pictographs (drawings of things), there were now logographs
+(drawings of concepts) and ideographs with rebus components (characters that
+use semantic or meaning components as well as phonetic components).
+
+Moreover, because of the disunity of the Zhōu states' governance, sinographs
+had diverged substantially between region. The characters of the old Zhōu
+states were sometimes the same, but sometimes differed stylistically, or even
+drastically [see fig]. Lǐ Sī believed that in order to govern the new Qin
+state, he would need to standardize characters. This finds western parallels to
+Charlemagne, who standardized the cursive form of the latin alphabet to produce
+what we know as the lowercase latin alphabet, but perhaps even more so to
+some of the later script reform in East Asia that took place in the 20 th
+century.
+
+Lǐ's motivations for orthographic reform were quite particular. On one hand, it
+was necessary for the newly created state bureaucracy to communicate using a
+common literary language. In this sense, Lǐ's motivation for reform was
+identical to that of Charlemagne in Europe to unify the script of officials and
+their scribes. On another hand, China has a history at many points of
+linguistic suppression, and this can be seen as an early implementation of this
+policy.
+
+Other linguistic interventionism has occurred throughout chinese history,
+including around this time. Qín Shǐ Huáng's personal name, Zhèng (政) and
+possibly its homophone (正) became taboo to write, and the emperor took the
+personal pronoun zhèn (朕) for his exclusive use, thereby prompting a
+linguistic shift towards different pronouns.
+
+In this case, Lǐ's script reform had the additional benefit of censorship. It
+relegated the possibility of using codes to communicate between officials or
+commoners, and may have been suppressed publically as a display of disloyalty.
+
+The alternative to Lǐ's language reform could very well have seen the chinese
+writing system fragment, as it had to some degree at that point, and
+disintegrated China proper's current (albeit quite imperfect) coherence of
+linguistic heritage.
+
+Lǐ's move established the authority of the central state, introduced efficiency
+and communication benefits on a national level, and promoted a common language
+of the officialship. Not unlike China's 20 th century move to simplified
+characters.
+
+Casting our eyes to the movement of simplified chinese, it's important to
+understand some differences in motives. Simplified chinese characters had
+several principles, including:
+
+- Sinographs were seen as an impediment to China achieving mass literacy.
+- Sinographs were incredibly numerous beyond what could be effectively recorded
+  in a dictionary. The Kangxi dictionary, published in 1716 by imperial decree,
+  took 6 years to develop, and contained over 47,000 characters. By comparison,
+  Lǐ Sī's list of standardized characters was 3,300. Some 40 % of the
+  characters in the Kangxi dictionary are estimated to be graphical variants
+  only.
+- There were too many sinographs to realistically learn for one person.
+- Regional variation was extensive, including by other chinese varieties to
+  reflect grammar exclusive to that language.
+- Sinographs were associated with China's ancien régime, including ineffective
+  bureaucracy and the country's weakness to internal and external threats.
+
+Japan had a script reform in the 1880s, although minor, and different in reach.
+Japan's script reform achieved the following:
+
+- Restrict the number of sinographs to around 1800, with the intention to
+  shrink this number over time.
+- Replace certain words and characters with phonetic Japanese script.
+- Replace semantically similar homophones with unified characters.
+- Improve literacy, in particular for women.
+
+China's reform, which came in the 1960s, ultimately achieved a lot more,
+including chaos. Such chaos is not documented in the accounts of the Qín
+dynasty, though it is in modern accounts. Mao Zedong was originally in favor of
+phasing out sinographs altogether and replacing them with a phonetic alphabet.
+It was originally this which pinyin was created for. However, these plans were
+scrapped due to opposition, and instead as part of a people's revolution,
+the populus was encouraged to participate with the simplification process, but
+making up characters themselves.
+
+As you can imagine, this was chaotic. Even now, some of these variant
+characters linger on throughout China in handwriting, some signs, and even
+people whose family changed surname in the revolution because their surname as
+it was written was disallowed, or they wanted to simplify their names. The
+legacy of the system is families unable to accurately retrace their history,
+including families where one branch now bears a different surname to another
+branch. Unicode even had to include some of these new variant characters as
+they were common in handwriting. And so, ironically, through trying to
+standardize the chinese writing system further, Mao suceeded in making more
+characters to learn, upending tradition, and overturning social order.
+
+How similar are these events? Lǐ Sī was something of a Machiavellian type
+within China's history, and ultimately met his demise in a coup after the death
+of the sitting emperor. He standardized a writing system that remained little
+changed for 2000 years, until another revolutionary would come along with the
+same ideas, and the political influence to see these plans carried out.
+
+The current paradigm of the sinosphere is a legacy from the authority and
+systems constructed by Mao. Were China to have taken different decisions, not
+only could it have led to a different writing system, perhaps a simpler one, a
+return to traditional writing, or a loss of the writing system altogether not
+only from China, but even neighboring Japan and Greater China.
+
+History reached another fork in the road, and this is the path we walk down.
+
+

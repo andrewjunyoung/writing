@@ -1,0 +1,21 @@
+I have noticed a few times that some Japanese speakers use the phoneme /s/
+interchangeably with /θ/. I provide no evidence for this claim, only anecdotal
+observations, but encourage a study to investigate these observations.
+
+I have noticed that some Japanese speakers use /s/ interchangeably with /θ/, and
+have found no supporting research on the topic. The use of this phoneme seems
+to be most prominent amongst younger speakers in the Kantou area. I have heard
+it from Kantou dialect speakers in their 50s, and in Kantou speakers in their
+mid-20s.
+
+The phoneme is still non standard and non contrastive with /s/. We call this
+process dentalization.
+
+Amongst speakers who use the phoneme, it appears to occur across all /s/
+syllables, for example /so:/ > /θo:/ <そう>; /sasɯ/ > /θaθɯ/ <指す>; and /ise/ >
+/iθe/ <伊勢>. This non contrasting phoneme does not affect the different but
+related phoneme /ɕ/, as in /iɕin/ <維新>.
+
+It is possible that these observations is the product of lisps in the various
+speakers for which it has been noted, but only properly conducted research would
+be able to tell conclusively whether this is the case or not.

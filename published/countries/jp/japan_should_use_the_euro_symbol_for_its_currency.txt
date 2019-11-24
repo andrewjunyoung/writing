@@ -1,0 +1,13 @@
+Japan should use the € symbol for its currency. Here's why:
+
+1: Japan's currency is pronounced "en" (えん) in japanese, not «yen». ¥ reflects
+an archaic pronunciation, while € is more suitable for modern japanese.
+2: € is easier to write than ¥.
+3: € looks more esthetically pleasing than ¥ from a design point of view,
+including ratios. € was designed by profesional designers!
+3: If Japan used the € symbol, 150 % (buy and sell side each totaling 100 %)
+of global transactions would occur within 2 currency symbols: $ and €. This
+would make the case for standardization, including of keyboards.
+4: ¥ often is misencoded on computers and turns into '\'. This problem
+is avoided altogether by switching currency symbol.
+5: ¥ looks like 羊 (en: «sheep»). 100 羊 is not the same as 100 ¥!
