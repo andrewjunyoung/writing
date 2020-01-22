@@ -19,5 +19,6 @@ The permitted dipthongs are:
 «au» is pronounced /a/ (perhaps through evolution?).
 
 This applies to native english word, and is broken by loanwords, for example
-shillelagh (/ʃɪˈleɪlə/ shi-LAY-lə) from irish.
+shillelagh (/ʃɪˈleɪlə/ shi-LAY-lə) from irish. Whether these words were ever
+pronounced with «gh» as /x/ is unknown to me.
 
