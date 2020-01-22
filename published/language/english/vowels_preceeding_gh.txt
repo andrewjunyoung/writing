@@ -18,3 +18,6 @@ The permitted dipthongs are:
 «i» must always be pronounced /ai/ in this position; «ou» is pronounced /o/;
 «au» is pronounced /a/ (perhaps through evolution?).
 
+This applies to native english word, and is broken by loanwords, for example
+shillelagh (/ʃɪˈleɪlə/ shi-LAY-lə) from irish.
+
