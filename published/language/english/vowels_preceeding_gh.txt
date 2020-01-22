@@ -1,0 +1,20 @@
+I notice that there are no vowels preceding «gh» that aren't dipthongs. The
+permitted syllables with «gh» appear to follow the below pattern:
+
+(C) (C) (C) V gh (t)
+
+The postfixed consonant, if there is one, must be /t/, and the preceeding vowel
+must be a dipthong. Hence the word «streight» is an example of a morphologically
+valid word.
+
+The permitted dipthongs are:
+
+- ai (straight)
+- i (high)
+- ei (weigh)
+- ou (ought)
+- au (laugh)
+
+«i» must always be pronounced /ai/ in this position; «ou» is pronounced /o/;
+«au» is pronounced /a/ (perhaps through evolution?).
+

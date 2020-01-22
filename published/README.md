@@ -24,6 +24,7 @@ A collection of written works, organized by topic, written by me.
   * [«Iteration marks for the latin script»](#iteration-marks-for-the-latin-script)
   * [«About brackets»](#about-brackets)
   * [«Proposed characters for unclear phonemes in the IPA»](#proposed-characters-for-unclear-phonemes-in-the-ipa)
+  * [«Vowels preceeding «gh»»](#vowels-preceeding-gh)
 * [Translations](#translations)
   * [«Man'youshuu 2513; 2514 («Narukami no»)»](#manyoushuu-2513-2514-narukami-no)
   * [«Phrases»](#phrases)
@@ -35,6 +36,12 @@ A collection of written works, organized by topic, written by me.
 
 A collection of works which I enjoyed. Often provided as a supplement to my
 writing.
+
+- Jay Rubrin's [«Town of cats»](https://www.newyorker.com/magazine/2011/09/05/town-of-cats).
+
+  Extracts from Murakami Haruki's «IQ84» combined to form a single short story,
+  which I felt combines the best parts of the novel (and their best
+  translation).
 
 
 ## Cooking
@@ -101,6 +108,11 @@ A concise defense of why I think Japan should use the € symbol for its currenc
 
 A short article proposing «unclear phoneme» symbols for phonetic transcription,
 discussing how to use them, and in what scenarios they are useful.
+
+### «Vowels preceeding «gh»»
+
+A short note on english morphology, and what vowels are permitted to occur
+before the «gh» digraph.
 
 
 ## Translations
