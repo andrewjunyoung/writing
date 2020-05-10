@@ -25,6 +25,7 @@ A collection of written works, organized by topic, written by me.
   * [«About brackets»](#about-brackets)
   * [«Proposed characters for unclear phonemes in the IPA»](#proposed-characters-for-unclear-phonemes-in-the-ipa)
   * [«Vowels preceeding «gh»»](#vowels-preceeding-gh)
+  * [«Cyrillic beta code»](#cyrillic-beta-code)
 * [Translations](#translations)
   * [«Man'youshuu 2513; 2514 («Narukami no»)»](#manyoushuu-2513-2514-narukami-no)
   * [«Phrases»](#phrases)
@@ -113,6 +114,12 @@ discussing how to use them, and in what scenarios they are useful.
 
 A short note on english morphology, and what vowels are permitted to occur
 before the «gh» digraph.
+
+### «Cyrillic beta code»
+
+Documentation about cyrillic beta code, a system for latinizing cyrillic text in
+accordance with ISO 9, with applications in text input and transcription.
+Inspired by greek beta code.
 
 
 ## Translations
