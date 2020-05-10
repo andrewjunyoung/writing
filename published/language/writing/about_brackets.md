@@ -1,7 +1,4 @@
-Title: «About brackets»
-Author: «Andrew J. Young»
-
--- Begin essay -----------------------------------------------------------------
+# About brackets
 
 It seems a little odd that anybody should write about a topic like « brackets ».
 But there are lots of odd topics, and amongst them this stands out as especially
@@ -17,16 +14,14 @@ is king.
 
 So let's show some examples first, and then figure out what's happening.
 
-________________________________________________________________________________
-
--- Brackets --------------------------------------------------------------------
+## Brackets
 
 These are really quite simple. Usually brackets are parenthetic, meaning that
 they make a little "aside" comment about what the text is talking about. Because
 these are a kind of subtext to what's happening in the main article, brackets
 are used to clearly mark where these parentheses begin and end.
 
--- Speech ----------------------------------------------------------------------
+## Speech
 
 Speech is similar: it is separate from the main discussion. But more than this,
 speech marks have some meaning in them: they show that the text is spoken. In
@@ -41,14 +36,14 @@ and Julliet», the reader understands that the title is this collection of words
 The title may even be a small sentence of its own. But, it is all contained
 within brackets.
 
--- Question marks and exclamation marks ----------------------------------------
+## Question marks and exclamation marks
 
 In English, this is harder to see. But, questions have clearly defined
 beginnings and end, and can even occur mid sentence, ¿right? In languages like
 Spanish, this is clearly marked with an opening (¿) and closing question mark
 (?): a form of bracket.
 
--- Clearing up meaning ---------------------------------------------------------
+## Disambiguation
 
 This is different to other bracketing because it's showing the order in which
 concepts apply to words in a sentence. If we take an example, The Royal Oak
@@ -58,9 +53,10 @@ words combine is important to our understanding of the sentence they are in, and
 can be clearly marked with brackets! So we can be sure that The Royal (Oak
 Lodge) is indeed made of oak. Or, if it's neither royal nor oak, we might just
 take it at face value to be a name with no deeper meaning, and no brackets.
-________________________________________________________________________________
 
-But brackets can occur in more types than this, and in more ways. With the
+## Conclusion
+
+Brackets can occur in more types than this, and in more ways. With the
 exception of clearing up meaning, all the brackets we mentioned are showing that
 some passage of text (that has a start and an end) should be treated in the
 same way, and perhaps somehow specially. This helps us know if it's a question,
@@ -77,6 +73,4 @@ than we tend to use it.
 
 A boring tool that produces great and interesting things should be treated like
 a paintbrush, not like a nail.
-
-------------------------------------------------------------------- End essay --
 
