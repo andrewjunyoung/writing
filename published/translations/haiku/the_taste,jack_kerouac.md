@@ -13,7 +13,9 @@
 # Original text | 原文
 
 The taste
+
 of rain
+
 -- why kneel?
 
 
@@ -22,12 +24,16 @@ of rain
 ## 混じり文
 
 大雨の
+
 甘い味わい
+
 ひざまずく？
 
 ## かなづかい
 
 おおあめの
+
 あまいあじわい
+
 ひざまずく？
 
