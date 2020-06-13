@@ -14,7 +14,7 @@
 
 |----|----------------------------------------------------------------|
 | JP | 巨艦がすぐに方向転換できない。                                 |
-| EN | Big boats can't change direction just after turning the wheel. |
+| EN | Big boats can't change course just after turning the wheel.    |
 
 
 
