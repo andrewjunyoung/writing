@@ -53,10 +53,10 @@ stressful.
   1. Dice a bulb of onion.
   1. Cut 500 g of sausages into gnocchi-sized pieces
   1. Add the diced onion and the 500 g cut sausages to the pan.
-    1. Sauté for 7 mintutes, or until the sausages are cooked through.
-    1. Get cutting!
-      1. Cut and crush 4 cloves of garlic and measure out 1 / 3 cup of white wine.
-      1. Cut 1 / 2 cup of cherry tomatoes each in half
+      1. Sauté for 7 mintutes, or until the sausages are cooked through.
+      1. Get cutting!
+          1. Cut and crush 4 cloves of garlic and measure out 1 / 3 cup of white wine.
+          1. Cut 1 / 2 cup of cherry tomatoes each in half
   1. Add the crushed garlic to the pan for 30 s
   1. Add the wine to the pan. Let it cook for 1 minute.
   1. Stir in the 1 / 2 cup cut cherry tomatoes, 1 cup double cream, and 500 g
