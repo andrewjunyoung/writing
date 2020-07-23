@@ -15,6 +15,9 @@ This recipe is based off by Natasha Bull's [«One pan creamy gnocchi with sausag
 
 ## Foreword
 
+Some of the amounts below are approximated or guessed! I'll have to update them
+when I next re-try the recipe!
+
 This recipe builds up as you go through it. It's absolutely delicious, and my
 advice to get it ready as fast as possible is to start cooking as soon as
 possible and then prep the ingredients you're gonna use next while the others
