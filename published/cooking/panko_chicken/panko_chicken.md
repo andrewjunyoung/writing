@@ -76,5 +76,6 @@ This recipe is great with sauces - ketchup and mayo in particular!
       1. Soak it in egg
       1. Submerge it in the crust until it's fully coated
       1. Place it on the baking tray
+  1. Garnish the entire tray with salt and pepper, each to taste.
   1. Place the tray of chicken into the oven for 25 minutes or until crispy.
   1. Garnish with lemon and serve.
