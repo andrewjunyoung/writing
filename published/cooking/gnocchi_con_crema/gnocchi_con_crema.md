@@ -45,8 +45,8 @@ stressful.
   - salt
   - pepper
 ### Others
-  - cherry tomatoes (¿1 / 2 cup?)
-  - sausages (500 g). I use cumberland sausages, often spiced, because I like the taste and texture.
+  - cherry tomatoes (1 / 2 cup)
+  - sausages (250 g or ~ 4). I use cumberland sausages, often spiced, because I like the taste and texture.
   - potato gnocchi (500 g), uncooked
   - basil leaves (2 handfuls), torn.
   - oil (1 tbsp). I use olive oil, but vegetable or sunflower are OK substitutes.
@@ -54,9 +54,9 @@ stressful.
 ## Method:
   1. Warm up a pan to medium-high heat with 1 tbsp of olive oil.
   1. Dice a bulb of onion.
-  1. Cut 500 g of sausages into gnocchi-sized pieces
+  1. Cut 250 g of sausages into gnocchi-sized pieces
   1. Add the diced onion and the 500 g cut sausages to the pan.
-      1. Sauté for 7 mintutes, or until the sausages are cooked through.
+      1. Sauté for 5 mintutes, or until the sausages are cooked through.
       1. Get cutting!
           1. Cut and crush 4 cloves of garlic and measure out 1 / 3 cup of white wine.
           1. Cut 1 / 2 cup of cherry tomatoes each in half
