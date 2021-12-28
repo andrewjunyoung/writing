@@ -7,7 +7,7 @@ The postfixed consonant, if there is one, must be /t/, and the preceeding vowel
 must be a dipthong. Hence the word «streight» is an example of a morphologically
 valid word.
 
-The permitted dipthongs are:
+The permitted vowels (all of which are dipthongs) are:
 
 - ai (straight)
 - i (high)
@@ -21,4 +21,3 @@ The permitted dipthongs are:
 This applies to native english word, and is broken by loanwords, for example
 shillelagh (/ʃɪˈleɪlə/ shi-LAY-lə) from irish. Whether these words were ever
 pronounced with «gh» as /x/ is unknown to me.
-
