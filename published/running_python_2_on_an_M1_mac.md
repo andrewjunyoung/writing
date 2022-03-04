@@ -24,14 +24,18 @@ Option 2 involves disabling some of the default safety features of your mac,
 making changes to your `.bashrc` / `.zshrc` / equivalent file, and running a
 command to launch your terminal into x86 mode.
 
-1. Install {that python package}
-1. Make a note of wherever your machine dumped the binary files
-1. Add the following lines to your `.bashrc` / `.zshrc` / equivalent file:
+1. [Install VirtualEnvWrapper](https://virtualenvwrapper.readthedocs.io/en/latest/install.html)
+1. Make a note of wherever your machine dumped the binary files. This may be something like `~/Library/Python/3.8/bin/virtualenvwrapper.sh`
+1. Add the following lines (or equivalent) to your `.bashrc` / `.zshrc` / equivalent file:
 
 ```
+export WORKON_HOME=~/.virtualenvs
+VIRTUALENVWRAPPER_PYTHON='/usr/bin/python3'
+source {path_to_virtualenvwrapper.sh}
+export VIRTUALENVWRAPPER_VIRTUALENV=$HOME/Library/Python/3.8/bin/virtualenv
 ```
 
-1. Disable `csrutil`
+1. Disable System Integrity Protection using `csrutil`
   1. Restart your mac in recovery mode
   1. Open up a terminal
   1. Run `csrutil disable`
@@ -42,21 +46,21 @@ command to launch your terminal into x86 mode.
 If successful, your terminal should output:
 
 ```
-csrutil status: disabled
+System Integrity Protection status: disabled.
 ```
 
 1. Run the following command to enter x86 mode
 
 ```
-$ arch ...
+$ arch -x86_64 $SHELL
 ```
 
 1. You should now be able to run the following commands without any issues
 
 
 ```
-$ mkvirtualenv --python=python2
-$ activate
+$ mkvirtualenv py2 --python=python2
+$ source activate
 $ python2 -V  # Check that pythno2 works
 $ pip2 -V  # Check that pip is using pip2 and works successfully
 ```
