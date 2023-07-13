@@ -1,0 +1,26 @@
+steak
+squid
+crab
+lobster
+scallops
+duck
+tuna
+tilapia
+chicken
+oyster,venison
+hamburger
+salmon
+shrimp
+brotwurst
+turkey
+turkey patty
+bacon
+mutton
+lamb chop
+pork chop
+spam,hotdog
+salami
+rabbit
+balogna
+ribs
+ham
