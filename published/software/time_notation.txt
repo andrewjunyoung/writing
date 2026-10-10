@@ -1,51 +1,9 @@
-\documentclass{article}
-
-%% Begin package imports %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% Language and font encodings
-\usepackage[english]{babel}
-% Package for angle quotes etc.
-\usepackage[T1]{fontenc}
-% Set page size and margins
-\usepackage[a4paper,top=3cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
-\usepackage[utf8]{inputenc}
-\usepackage{hyperref}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% End package imports %%
-
-\title{A fix for a timeless problem}
-\author{Andrew J. Young}
-
-\begin{document}
-\maketitle
-
-For all our history, we have been measuring time and modeling our world around
-it. From rituals to seasons; scheduling reminders; and coordinating groups,
-empirically measuring the passage of time, and our position in it, has been
-vital.
-
-In the modern world, time is embedded in the fabric of society. We travel on a
-schedule, sleep on time, and make appointments at times. It's easy to overlook
-it, but every day we work through hundreds of our own scheduled events.
-International finance, computers, and cooperation have all become rooted in
-accurate measurements of time, and understanding where we are in it, without
-which the world would not be able to coordinate itself as it does.
-
-Our calendar, and the way with which we deal with time, is imperfect. In the
-gregorian calendar, the year starts at on an arbitrary day in winter, and has
-leap days added to the second month. It has time zones that can stay the same;
-change at any time; and be named the same as other zones. "Months" which once
-aligned with the moon are not the same length, let alone the length of a lunar
-cycle, and leap seconds need to be constantly added to avoid calendrical drift.
-
-Despite this, through convention and ease of use, this calendar dominates, while
-other calendars with less standardized features have drifted, been forked, or
-rely on unreliable natural phenomena.
+Time in softwaer is a messy affair.
 
 In the present, we need to deal with time zones, which don't have consistent
-naming conventions, change, and not even on the same day. Managing the
-complexity of time zones alone is unbelievably hard, as any programmer who has
-tried to work with them will know.
+naming conventions, change, and not even change on the same day in all places.
+Managing the complexity of time zones alone is unbelievably hard, as any
+programmer who has tried to work with them will know.
 
 In the future, we will need to find a way of keeping time on the moon and mars,
 at least. Mars has 2 moons, not one, which have different phases. Some moons
@@ -93,7 +51,7 @@ day, then hours are different lengths. This too is harder.
 
 Under this system, all we need to know is
 
-YYYY a DDD d (/ DDD d) SSSSS s (/SSSSS s)
+YYYY a DDD d SSSSS s
 
 That is, how many years have gone by on that planet since epoch; ¿how many days
 have gone by since the start the current year (its shortest day)?; ¿Out of how
@@ -101,7 +59,7 @@ many days?; ¿how many seconds into that day are we? ¿out of how many seconds p
 day?
 
 This also allows us to quickly determine the day of the week: simply take the
-day of the year d and calculate d (mod 7)!
+day of the year d and calculate d (mod 7).
 
 If we're on a moon, we don't usually track seasons in the same way, because
 these are determined both by the body we're orbiting and by the nearest star. In
@@ -111,8 +69,3 @@ year since epoch on Earth, but this is what we want to see, because it helps us
 better understand the conditions of the planet or rock which we're on.
 
 And of course, our universal time is holding it all together.
-
-\end{document}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% End document contents %%
-
