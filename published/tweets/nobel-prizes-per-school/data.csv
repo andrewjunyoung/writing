@@ -1,0 +1,820 @@
+name,subject,year,affiliation
+Daron Acemoglu,Economics,2024,Massachusetts Institute of Technology
+Victor Ambros,Physiology or Medicine,2024,UMass Chan Medical School
+Geoffrey Hinton,Physics,2024,University of Toronto
+John Hopfield,Physics,2024,Princeton University
+Simon Johnson,Economics,2024,Massachusetts Institute of Technology
+James A. Robinson,Economics,2024,University of Chicago
+Gary Ruvkun,Physiology or Medicine,2024,Massachusetts General Hospital
+Gary Ruvkun,Physiology or Medicine,2024,Harvard Medical School
+Pierre Agostini,Physics,2023,The Ohio State University
+Moungi Bawendi,Chemistry,2023,Massachusetts Institute of Technology
+Louis E. Brus,Chemistry,2023,Columbia University
+Claudia Goldin,Economics,2023,Harvard University
+Katalin Karikó,Physiology or Medicine,2023,University of Pennsylvania
+Katalin Karikó,Physiology or Medicine,2023,University of Szeged
+Ferenc Krausz,Physics,2023,Max Planck Institute of Quantum Optics
+Ferenc Krausz,Physics,2023,Ludwig Maximilian University of Munich
+Anne L'Huillier,Physics,2023,Lund University
+Drew Weissman,Physiology or Medicine,2023,University of Pennsylvania
+Alain Aspect,Physics,2022,École Polytechnique
+Alain Aspect,Physics,2022,Institut d'optique Graduate School
+Alain Aspect,Physics,2022,Paris-Saclay University
+Carolyn Bertozzi,Chemistry,2022,Howard Hughes Medical Institute
+Carolyn Bertozzi,Chemistry,2022,Stanford University
+John Clauser,Physics,2022,J. F. Clauser and Associates
+Douglas W. Diamond,Economics,2022,University of Chicago
+Philip H. Dybvig,Economics,2022,Washington University in St. Louis
+Morten P. Meldal,Chemistry,2022,University of Copenhagen
+Svante Pääbo,Physiology or Medicine,2022,Max Planck Institute for Evolutionary Anthropology
+Svante Pääbo,Physiology or Medicine,2022,Okinawa Institute of Science and Technology
+Karl Barry Sharpless,Chemistry,2022,Scripps Research
+Anton Zeilinger,Physics,2022,University of Vienna
+Joshua Angrist,Economics,2021,Massachusetts Institute of Technology
+David Card,Economics,2021,University of California Berkeley
+Klaus Hasselmann,Physics,2021,Max Planck Institute for Meteorology
+Guido Imbens,Economics,2021,Stanford University
+David Julius,Physiology or Medicine,2021,University of California San Francisco
+Benjamin List,Chemistry,2021,Max Planck Institute for Coal Research
+David MacMillan,Chemistry,2021,Princeton University
+Syukuro Manabe,Physics,2021,Princeton University
+Giorgio Parisi,Physics,2021,Sapienza University of Rome
+Ardem Patapoutian,Physiology or Medicine,2021,Howard Hughes Medical Institute
+Ardem Patapoutian,Physiology or Medicine,2021,Scripps Research
+Harvey J. Alter,Physiology or Medicine,2020,National Institutes of Health
+Emmanuelle Charpentier,Chemistry,2020,Max Planck Unit for the Science of Pathogens
+Jennifer Doudna,Chemistry,2020,University of California Berkeley
+Reinhard Genzel,Physics,2020,Max Planck Institute for Extraterrestrial Physics
+Reinhard Genzel,Physics,2020,University of California Berkeley
+Andrea M. Ghez,Physics,2020,University of California Los Angeles
+Michael Houghton,Physiology or Medicine,2020,University of Alberta
+Paul Milgrom,Economics,2020,Stanford University
+Roger Penrose,Physics,2020,University of Oxford
+Charles M. Rice,Physiology or Medicine,2020,Rockefeller University
+Robert B. Wilson,Economics,2020,Stanford University
+Abhijit Banerjee,Economics,2019,Massachusetts Institute of Technology
+Esther Duflo,Economics,2019,Massachusetts Institute of Technology
+John B. Goodenough,Chemistry,2019,University of Texas at Austin
+William Kaelin Jr.,Physiology or Medicine,2019,Brigham and Women's Hospital
+William Kaelin Jr.,Physiology or Medicine,2019,Dana–Farber Cancer Institute
+William Kaelin Jr.,Physiology or Medicine,2019,Harvard Medical School
+William Kaelin Jr.,Physiology or Medicine,2019,Howard Hughes Medical Institute
+Michael Kremer,Economics,2019,Harvard University
+Michel Mayor,Physics,2019,University of Geneva
+Jim Peebles,Physics,2019,Princeton University
+Didier Queloz,Physics,2019,University of Cambridge
+Didier Queloz,Physics,2019,University of Geneva
+Peter J. Ratcliffe,Physiology or Medicine,2019,Francis Crick Institute
+Peter J. Ratcliffe,Physiology or Medicine,2019,University of Oxford
+Gregg L. Semenza,Physiology or Medicine,2019,Johns Hopkins University
+M. Stanley Whittingham,Chemistry,2019,Binghamton University
+Akira Yoshino,Chemistry,2019,Asahi Kasei
+Akira Yoshino,Chemistry,2019,Meijo University
+James P. Allison,Physiology or Medicine,2018,MD Anderson Cancer Center
+James P. Allison,Physiology or Medicine,2018,Parker Institute for Cancer Immunotherapy
+Frances Arnold,Chemistry,2018,California Institute of Technology
+Arthur Ashkin,Physics,2018,Bell Labs
+Tasuku Honjo,Physiology or Medicine,2018,Kyoto University
+Gérard Mourou,Physics,2018,École Polytechnique
+Gérard Mourou,Physics,2018,University of Michigan
+William Nordhaus,Economics,2018,Yale University
+Paul Romer,Economics,2018,New York University Stern School of Business
+George P. Smith,Chemistry,2018,University of Missouri
+Donna Strickland,Physics,2018,University of Waterloo
+Gregory Winter,Chemistry,2018,MRC Laboratory of Molecular Biology
+Barry Barish,Physics,2017,California Institute of Technology
+Barry Barish,Physics,2017,LIGO Scientific Collaboration
+Jacques Dubochet,Chemistry,2017,University of Lausanne
+Joachim Frank,Chemistry,2017,Columbia University
+Jeffrey C. Hall,Physiology or Medicine,2017,University of Maine
+Richard Henderson,Chemistry,2017,MRC Laboratory of Molecular Biology
+Michael Rosbash,Physiology or Medicine,2017,Brandeis University
+Michael Rosbash,Physiology or Medicine,2017,Howard Hughes Medical Institute
+Richard Thaler,Economics,2017,University of Chicago
+Kip Thorne,Physics,2017,California Institute of Technology
+Kip Thorne,Physics,2017,LIGO Scientific Collaboration
+Rainer Weiss,Physics,2017,LIGO Scientific Collaboration
+Rainer Weiss,Physics,2017,Massachusetts Institute of Technology
+Ben Feringa,Chemistry,2016,University of Groningen
+Duncan Haldane,Physics,2016,Princeton University
+Oliver Hart,Economics,2016,Harvard University
+Bengt Holmström,Economics,2016,Massachusetts Institute of Technology
+J. Michael Kosterlitz,Physics,2016,Brown University
+Yoshinori Ohsumi,Physiology or Medicine,2016,Tokyo Institute of Technology
+Jean-Pierre Sauvage,Chemistry,2016,University of Strasbourg
+Fraser Stoddart,Chemistry,2016,Northwestern University
+David J. Thouless,Physics,2016,University of Washington
+William C. Campbell,Physiology or Medicine,2015,Drew University
+Angus Deaton,Economics,2015,Princeton University
+Takaaki Kajita,Physics,2015,University of Tokyo
+Tomas Lindahl,Chemistry,2015,Clare Hall laboratories
+Tomas Lindahl,Chemistry,2015,Francis Crick Institute
+Arthur B. McDonald,Physics,2015,Queen's University at Kingston
+Paul L. Modrich,Chemistry,2015,Duke University School of Medicine
+Paul L. Modrich,Chemistry,2015,Howard Hughes Medical Institute
+Satoshi Ōmura,Physiology or Medicine,2015,Kitasato University
+Aziz Sancar,Chemistry,2015,University of North Carolina at Chapel Hill
+Tu Youyou,Physiology or Medicine,2015,China Academy of Traditional Chinese Medicine
+Isamu Akasaki,Physics,2014,Meijo University
+Isamu Akasaki,Physics,2014,Nagoya University
+Hiroshi Amano,Physics,2014,Nagoya University
+Eric Betzig,Chemistry,2014,Janelia Research Campus
+Stefan Hell,Chemistry,2014,German Cancer Research Center
+Stefan Hell,Chemistry,2014,Max Planck Institute for Biophysical Chemistry
+William E. Moerner,Chemistry,2014,Stanford University
+Edvard Moser,Physiology or Medicine,2014,Norwegian University of Science and Technology
+May-Britt Moser,Physiology or Medicine,2014,Norwegian University of Science and Technology
+Shuji Nakamura,Physics,2014,University of California Santa Barbara
+John O'Keefe,Physiology or Medicine,2014,University College London
+Jean Tirole,Economics,2014,Toulouse School of Economics
+François Englert,Physics,2013,Université libre de Bruxelles
+Eugene Fama,Economics,2013,University of Chicago
+Lars Peter Hansen,Economics,2013,University of Chicago
+Peter Higgs,Physics,2013,University of Edinburgh
+Martin Karplus,Chemistry,2013,Harvard University
+Martin Karplus,Chemistry,2013,University of Strasbourg
+Michael Levitt,Chemistry,2013,Stanford University School of Medicine
+James Rothman,Physiology or Medicine,2013,Yale University
+Randy Schekman,Physiology or Medicine,2013,Howard Hughes Medical Institute
+Randy Schekman,Physiology or Medicine,2013,University of California Berkeley
+Robert J. Shiller,Economics,2013,Yale University
+Thomas C. Südhof,Physiology or Medicine,2013,Howard Hughes Medical Institute
+Thomas C. Südhof,Physiology or Medicine,2013,Stanford University
+Arieh Warshel,Chemistry,2013,University of Southern California
+John Gurdon,Physiology or Medicine,2012,Gurdon Institute
+Serge Haroche,Physics,2012,Collège de France
+Serge Haroche,Physics,2012,ENS Paris
+Brian Kobilka,Chemistry,2012,Stanford University School of Medicine
+Robert Lefkowitz,Chemistry,2012,Duke University Medical Center
+Robert Lefkowitz,Chemistry,2012,Howard Hughes Medical Institute
+Alvin E. Roth,Economics,2012,Harvard Business School
+Alvin E. Roth,Economics,2012,Harvard University
+Lloyd Shapley,Economics,2012,University of California Los Angeles
+David J. Wineland,Physics,2012,National Institute of Standards and Technology
+David J. Wineland,Physics,2012,University of Colorado Boulder
+Shinya Yamanaka,Physiology or Medicine,2012,Gladstone Institutes
+Shinya Yamanaka,Physiology or Medicine,2012,Kyoto University
+Bruce Beutler,Physiology or Medicine,2011,Scripps Research
+Bruce Beutler,Physiology or Medicine,2011,University of Texas Southwestern Medical Center
+Jules A. Hoffmann,Physiology or Medicine,2011,University of Strasbourg
+Saul Perlmutter,Physics,2011,Lawrence Berkeley National Laboratory
+Saul Perlmutter,Physics,2011,University of California Berkeley
+Adam Riess,Physics,2011,Johns Hopkins University
+Adam Riess,Physics,2011,Space Telescope Science Institute
+Thomas J. Sargent,Economics,2011,New York University
+Brian Schmidt,Physics,2011,Australian National University
+Dan Shechtman,Chemistry,2011,Technion – Israel Institute of Technology
+Christopher A. Sims,Economics,2011,Princeton University
+Ralph M. Steinman,Physiology or Medicine,2011,Rockefeller University
+Michael W. Young,Physiology or Medicine,2011,Rockefeller University
+Peter Diamond,Economics,2010,Massachusetts Institute of Technology
+Robert Edwards,Physiology or Medicine,2010,University of Cambridge
+Andre Geim,Physics,2010,University of Manchester
+Richard F. Heck,Chemistry,2010,University of Delaware
+Dale T. Mortensen,Economics,2010,Aarhus University
+Dale T. Mortensen,Economics,2010,Northwestern University
+Ei-ichi Negishi,Chemistry,2010,Purdue University
+Konstantin Novoselov,Physics,2010,University of Manchester
+Christopher A. Pissarides,Economics,2010,London School of Economics
+Akira Suzuki,Chemistry,2010,Hokkaido University
+Elizabeth Blackburn,Physiology or Medicine,2009,University of California San Francisco
+Willard Boyle,Physics,2009,Bell Labs
+Carol W. Greider,Physiology or Medicine,2009,Johns Hopkins School of Medicine
+Charles K. Kao,Physics,2009,Chinese University of Hong Kong
+Charles K. Kao,Physics,2009,Standard Telecommunication Laboratories
+Elinor Ostrom,Economics,2009,Arizona State University
+Elinor Ostrom,Economics,2009,Indiana University Bloomington
+Venki Ramakrishnan,Chemistry,2009,MRC Laboratory of Molecular Biology
+George E. Smith,Physics,2009,Bell Labs
+Thomas A. Steitz,Chemistry,2009,Howard Hughes Medical Institute
+Thomas A. Steitz,Chemistry,2009,Yale University
+Jack W. Szostak,Physiology or Medicine,2009,Harvard Medical School
+Jack W. Szostak,Physiology or Medicine,2009,Howard Hughes Medical Institute
+Jack W. Szostak,Physiology or Medicine,2009,Massachusetts General Hospital
+Oliver E. Williamson,Economics,2009,University of California Berkeley
+Ada Yonath,Chemistry,2009,Weizmann Institute of Science
+Françoise Barré-Sinoussi,Physiology or Medicine,2008,Pasteur Institute
+Martin Chalfie,Chemistry,2008,Columbia University
+Harald zur Hausen,Physiology or Medicine,2008,German Cancer Research Center
+Makoto Kobayashi,Physics,2008,KEK
+Paul Krugman,Economics,2008,Princeton University
+Toshihide Maskawa,Physics,2008,Kyoto Sangyo University
+Toshihide Maskawa,Physics,2008,Yukawa Institute for Theoretical Physics
+Luc Montagnier,Physiology or Medicine,2008,World Foundation for AIDS Research and Prevention
+Yoichiro Nambu,Physics,2008,Enrico Fermi Institute
+Osamu Shimomura,Chemistry,2008,Boston University School of Medicine
+Osamu Shimomura,Chemistry,2008,Marine Biological Laboratory
+Roger Y. Tsien,Chemistry,2008,Howard Hughes Medical Institute
+Roger Y. Tsien,Chemistry,2008,University of California San Diego
+Mario Capecchi,Physiology or Medicine,2007,Howard Hughes Medical Institute
+Mario Capecchi,Physiology or Medicine,2007,University of Utah
+Gerhard Ertl,Chemistry,2007,Fritz Haber Institute of the Max Planck Society
+Martin Evans,Physiology or Medicine,2007,Cardiff University
+Albert Fert,Physics,2007,Paris-Sud University
+Albert Fert,Physics,2007,Unité Mixte de Physique CNRS/THALES
+Peter Grünberg,Physics,2007,Forschungszentrum Jülich
+Leonid Hurwicz,Economics,2007,University of Minnesota
+Eric Maskin,Economics,2007,Institute for Advanced Study
+Roger Myerson,Economics,2007,University of Chicago
+Oliver Smithies,Physiology or Medicine,2007,University of North Carolina at Chapel Hill
+Andrew Fire,Physiology or Medicine,2006,Stanford University School of Medicine
+Roger D. Kornberg,Chemistry,2006,Stanford University
+John C. Mather,Physics,2006,Goddard Space Flight Center
+Craig Mello,Physiology or Medicine,2006,University of Massachusetts
+Edmund Phelps,Economics,2006,Columbia University
+George Smoot,Physics,2006,University of California Berkeley
+Robert Aumann,Economics,2005,Hebrew University of Jerusalem
+Yves Chauvin,Chemistry,2005,French Institute of Petroleum
+Roy J. Glauber,Physics,2005,Harvard University
+Robert H. Grubbs,Chemistry,2005,California Institute of Technology
+John L. Hall,Physics,2005,JILA
+John L. Hall,Physics,2005,National Institute of Standards and Technology
+Theodor W. Hänsch,Physics,2005,Ludwig Maximilian University of Munich
+Theodor W. Hänsch,Physics,2005,Max Planck Institute of Quantum Optics
+Barry Marshall,Physiology or Medicine,2005,NHMRC Helicobacter pylori Research Laboratory
+Barry Marshall,Physiology or Medicine,2005,University of Western Australia
+Thomas Schelling,Economics,2005,University of Maryland College Park
+Richard R. Schrock,Chemistry,2005,Massachusetts Institute of Technology
+Richard Axel,Physiology or Medicine,2004,Columbia University
+Linda B. Buck,Physiology or Medicine,2004,Fred Hutchinson Cancer Research Center
+Aaron Ciechanover,Chemistry,2004,Technion – Israel Institute of Technology
+David Gross,Physics,2004,Kavli Institute for Theoretical Physics
+Avram Hershko,Chemistry,2004,Technion – Israel Institute of Technology
+Finn E. Kydland,Economics,2004,Carnegie Mellon University
+Finn E. Kydland,Economics,2004,University of California Santa Barbara
+Hugh David Politzer,Physics,2004,California Institute of Technology
+Edward C. Prescott,Economics,2004,Arizona State University
+Edward C. Prescott,Economics,2004,Federal Reserve Bank of Minneapolis
+Irwin Rose,Chemistry,2004,University of California Irvine
+Frank Wilczek,Physics,2004,Massachusetts Institute of Technology
+Alexei Abrikosov,Physics,2003,Argonne National Laboratory
+Peter Agre,Chemistry,2003,Johns Hopkins School of Medicine
+Robert F. Engle,Economics,2003,New York University
+Vitaly Ginzburg,Physics,2003,Lebedev Physical Institute
+Clive Granger,Economics,2003,University of California San Diego
+Paul Lauterbur,Physiology or Medicine,2003,University of Illinois Urbana-Champaign
+Anthony James Leggett,Physics,2003,University of Illinois Urbana-Champaign
+Roderick MacKinnon,Chemistry,2003,Howard Hughes Medical Institute
+Roderick MacKinnon,Chemistry,2003,Rockefeller University
+Peter Mansfield,Physiology or Medicine,2003,University of Nottingham
+Sydney Brenner,Physiology or Medicine,2002,Molecular Sciences Institute
+Raymond Davis Jr.,Physics,2002,University of Pennsylvania
+John B. Fenn,Chemistry,2002,Virginia Commonwealth University
+Riccardo Giacconi,Physics,2002,Associated Universities Inc.
+H. Robert Horvitz,Physiology or Medicine,2002,Massachusetts Institute of Technology
+Daniel Kahneman,Economics,2002,Princeton University
+Masatoshi Koshiba,Physics,2002,University of Tokyo
+Vernon L. Smith,Economics,2002,George Mason University
+John Sulston,Physiology or Medicine,2002,Wellcome Sanger Institute
+Koichi Tanaka,Chemistry,2002,Shimadzu
+Kurt Wüthrich,Chemistry,2002,ETH Zurich
+Kurt Wüthrich,Chemistry,2002,Scripps Research
+George Akerlof,Economics,2001,University of California Berkeley
+Eric Allin Cornell,Physics,2001,JILA
+Leland H. Hartwell,Physiology or Medicine,2001,Fred Hutchinson Cancer Research Center
+Tim Hunt,Physiology or Medicine,2001,Imperial Cancer Research Fund
+Wolfgang Ketterle,Physics,2001,Massachusetts Institute of Technology
+Ryōji Noyori,Chemistry,2001,Nagoya University
+Paul Nurse,Physiology or Medicine,2001,Imperial Cancer Research Fund
+Karl Barry Sharpless,Chemistry,2001,Scripps Research
+Michael Spence,Economics,2001,Stanford University
+Joseph Stiglitz,Economics,2001,Columbia University
+Carl Wieman,Physics,2001,JILA
+Zhores Alferov,Physics,2000,Ioffe Institute
+Arvid Carlsson,Physiology or Medicine,2000,University of Gothenburg
+Paul Greengard,Physiology or Medicine,2000,Rockefeller University
+James Heckman,Economics,2000,University of Chicago
+Alan J. Heeger,Chemistry,2000,University of California Santa Barbara
+Eric Kandel,Physiology or Medicine,2000,Columbia University
+Jack Kilby,Physics,2000,Texas Instruments
+Herbert Kroemer,Physics,2000,University of California Santa Barbara
+Alan MacDiarmid,Chemistry,2000,University of Pennsylvania
+Daniel McFadden,Economics,2000,University of California Berkeley
+Hideki Shirakawa,Chemistry,2000,University of Tsukuba
+Günter Blobel,Physiology or Medicine,1999,Howard Hughes Medical Institute
+Günter Blobel,Physiology or Medicine,1999,Rockefeller University
+Gerard 't Hooft,Physics,1999,Utrecht University
+Robert Mundell,Economics,1999,Columbia University
+Ahmed Zewail,Chemistry,1999,California Institute of Technology
+Robert F. Furchgott,Physiology or Medicine,1998,SUNY Downstate Medical Center
+Louis Ignarro,Physiology or Medicine,1998,David Geffen School of Medicine at UCLA
+Walter Kohn,Chemistry,1998,University of California Santa Barbara
+Robert B. Laughlin,Physics,1998,Stanford University
+Ferid Murad,Physiology or Medicine,1998,University of Texas Medical School at Houston
+John Pople,Chemistry,1998,Northwestern University
+Amartya Sen,Economics,1998,University of Cambridge
+Horst Ludwig Störmer,Physics,1998,Columbia University
+Daniel C. Tsui,Physics,1998,Princeton University
+Paul D. Boyer,Chemistry,1997,University of California Los Angeles
+Steven Chu,Physics,1997,Stanford University
+Claude Cohen-Tannoudji,Physics,1997,Collège de France
+Claude Cohen-Tannoudji,Physics,1997,ENS Paris
+Robert C. Merton,Economics,1997,Harvard University
+William Daniel Phillips,Physics,1997,National Institute of Standards and Technology
+Stanley B. Prusiner,Physiology or Medicine,1997,UCSF School of Medicine
+Myron Scholes,Economics,1997,Long-Term Capital Management
+Jens Christian Skou,Chemistry,1997,Aarhus University
+John E. Walker,Chemistry,1997,MRC Laboratory of Molecular Biology
+Robert Curl,Chemistry,1996,Rice University
+Peter C. Doherty,Physiology or Medicine,1996,St. Jude Children's Research Hospital
+Harry Kroto,Chemistry,1996,University of Sussex
+David Lee,Physics,1996,Cornell University
+James Mirrlees,Economics,1996,University of Cambridge
+Douglas Osheroff,Physics,1996,Stanford University
+Robert Coleman Richardson,Physics,1996,Cornell University
+Richard Smalley,Chemistry,1996,Rice University
+William Vickrey,Economics,1996,Columbia University
+Rolf M. Zinkernagel,Physiology or Medicine,1996,University of Zurich
+Paul J. Crutzen,Chemistry,1995,Max Planck Institute for Chemistry
+Edward B. Lewis,Physiology or Medicine,1995,California Institute of Technology
+Robert Lucas Jr.,Economics,1995,University of Chicago
+Mario Molina,Chemistry,1995,Massachusetts Institute of Technology
+Christiane Nüsslein-Volhard,Physiology or Medicine,1995,Max Planck Institute for Developmental Biology
+Martin Lewis Perl,Physics,1995,Stanford University
+Frederick Reines,Physics,1995,University of California Irvine
+F. Sherwood Rowland,Chemistry,1995,University of California Irvine
+Eric F. Wieschaus,Physiology or Medicine,1995,Princeton University
+Bertram Brockhouse,Physics,1994,McMaster University
+Alfred G. Gilman,Physiology or Medicine,1994,University of Texas Southwestern Medical Center
+John Harsanyi,Economics,1994,University of California Berkeley
+John Forbes Nash Jr.,Economics,1994,Princeton University
+George Andrew Olah,Chemistry,1994,University of Southern California
+Martin Rodbell,Physiology or Medicine,1994,National Institute of Environmental Health Sciences
+Reinhard Selten,Economics,1994,University of Bonn
+Clifford Shull,Physics,1994,Massachusetts Institute of Technology
+Robert Fogel,Economics,1993,University of Chicago
+Russell Alan Hulse,Physics,1993,Princeton University
+Douglass North,Economics,1993,Washington University in St. Louis
+Richard J. Roberts,Physiology or Medicine,1993,New England Biolabs
+Phillip Allen Sharp,Physiology or Medicine,1993,Massachusetts Institute of Technology
+Michael Smith,Chemistry,1993,University of British Columbia
+Joseph Hooton Taylor Jr.,Physics,1993,Princeton University
+Gary Becker,Economics,1992,University of Chicago
+Georges Charpak,Physics,1992,CERN
+Georges Charpak,Physics,1992,ESPCI Paris
+Edmond H. Fischer,Physiology or Medicine,1992,University of Washington
+Edwin G. Krebs,Physiology or Medicine,1992,University of Washington
+Rudolph A. Marcus,Chemistry,1992,California Institute of Technology
+Ronald Coase,Economics,1991,University of Chicago
+Richard R. Ernst,Chemistry,1991,ETH Zurich
+Pierre-Gilles de Gennes,Physics,1991,Collège de France
+Erwin Neher,Physiology or Medicine,1991,Max Planck Institute for Biophysical Chemistry
+Bert Sakmann,Physiology or Medicine,1991,Max Planck Institute for Medical Research
+Elias James Corey,Chemistry,1990,Harvard University
+Jerome Isaac Friedman,Physics,1990,Massachusetts Institute of Technology
+Henry Way Kendall,Physics,1990,Massachusetts Institute of Technology
+Harry Markowitz,Economics,1990,City University of New York
+Merton Miller,Economics,1990,University of Chicago
+Joseph Murray,Physiology or Medicine,1990,Brigham and Women's Hospital
+William F. Sharpe,Economics,1990,Stanford University
+Richard E. Taylor,Physics,1990,Stanford University
+E. Donnall Thomas,Physiology or Medicine,1990,Fred Hutchinson Cancer Research Center
+Sidney Altman,Chemistry,1989,Yale University
+J. Michael Bishop,Physiology or Medicine,1989,UCSF School of Medicine
+Thomas Cech,Chemistry,1989,University of Colorado Boulder
+Hans Georg Dehmelt,Physics,1989,University of Washington
+Trygve Haavelmo,Economics,1989,University of Oslo
+Wolfgang Paul,Physics,1989,University of Bonn
+Norman Foster Ramsey Jr.,Physics,1989,Harvard University
+Harold E. Varmus,Physiology or Medicine,1989,UCSF School of Medicine
+Maurice Allais,Economics,1988,Mines ParisTech
+James Black,Physiology or Medicine,1988,King's College Hospital Medical School
+Johann Deisenhofer,Chemistry,1988,Howard Hughes Medical Institute
+Johann Deisenhofer,Chemistry,1988,University of Texas Southwestern Medical Center
+Gertrude B. Elion,Physiology or Medicine,1988,Wellcome Research Laboratories
+George H. Hitchings,Physiology or Medicine,1988,Wellcome Research Laboratories
+Robert Huber,Chemistry,1988,Max Planck Institute of Biochemistry
+Leon M. Lederman,Physics,1988,Fermilab
+Hartmut Michel,Chemistry,1988,Max Planck Institute of Biophysics
+Melvin Schwartz,Physics,1988,Digital Pathways
+Jack Steinberger,Physics,1988,CERN
+Georg Bednorz,Physics,1987,IBM Zurich Research Laboratory
+Donald J. Cram,Chemistry,1987,University of California Los Angeles
+Jean-Marie Lehn,Chemistry,1987,Collège de France
+Jean-Marie Lehn,Chemistry,1987,Louis Pasteur University
+K. Alex Müller,Physics,1987,IBM Zurich Research Laboratory
+Charles J. Pedersen,Chemistry,1987,DuPont
+Robert Solow,Economics,1987,Massachusetts Institute of Technology
+Susumu Tonegawa,Physiology or Medicine,1987,Massachusetts Institute of Technology
+Gerd Binnig,Physics,1986,IBM Zurich Research Laboratory
+James M. Buchanan,Economics,1986,George Mason University
+Stanley Cohen,Physiology or Medicine,1986,Vanderbilt University School of Medicine
+Dudley R. Herschbach,Chemistry,1986,Harvard University
+Yuan T. Lee,Chemistry,1986,University of California Berkeley
+Rita Levi-Montalcini,Physiology or Medicine,1986,Institute of Cell Biology of the C.N.R.
+John Polanyi,Chemistry,1986,University of Toronto
+Heinrich Rohrer,Physics,1986,IBM Zurich Research Laboratory
+Ernst Ruska,Physics,1986,Fritz Haber Institute of the Max Planck Society
+Michael Stuart Brown,Physiology or Medicine,1985,University of Texas Southwestern Medical Center
+Joseph L. Goldstein,Physiology or Medicine,1985,University of Texas Southwestern Medical Center
+Herbert A. Hauptman,Chemistry,1985,Medical Foundation of Buffalo
+Jerome Karle,Chemistry,1985,United States Naval Research Laboratory
+Klaus von Klitzing,Physics,1985,Max Planck Institute for Solid State Research
+Franco Modigliani,Economics,1985,Massachusetts Institute of Technology
+Niels Kaj Jerne,Physiology or Medicine,1984,Basel Institute for Immunology
+Georges J. F. Köhler,Physiology or Medicine,1984,Basel Institute for Immunology
+Simon van der Meer,Physics,1984,CERN
+Robert Bruce Merrifield,Chemistry,1984,Rockefeller University
+César Milstein,Physiology or Medicine,1984,MRC Laboratory of Molecular Biology
+Carlo Rubbia,Physics,1984,CERN
+Richard Stone,Economics,1984,University of Cambridge
+Subrahmanyan Chandrasekhar,Physics,1983,University of Chicago
+Gérard Debreu,Economics,1983,University of California Berkeley
+William Alfred Fowler,Physics,1983,California Institute of Technology
+Barbara McClintock,Physiology or Medicine,1983,Cold Spring Harbor Laboratory
+Henry Taube,Chemistry,1983,Stanford University
+Sune Bergström,Physiology or Medicine,1982,Karolinska Institute
+Aaron Klug,Chemistry,1982,MRC Laboratory of Molecular Biology
+Bengt I. Samuelsson,Physiology or Medicine,1982,Karolinska Institute
+George Stigler,Economics,1982,University of Chicago
+John Vane,Physiology or Medicine,1982,Wellcome Research Laboratories
+Kenneth G. Wilson,Physics,1982,Cornell University
+Nicolaas Bloembergen,Physics,1981,Harvard University
+Kenichi Fukui,Chemistry,1981,Kyoto University
+Roald Hoffmann,Chemistry,1981,Cornell University
+David H. Hubel,Physiology or Medicine,1981,Harvard Medical School
+Arthur Leonard Schawlow,Physics,1981,Stanford University
+Kai Siegbahn,Physics,1981,Uppsala University
+Roger Wolcott Sperry,Physiology or Medicine,1981,California Institute of Technology
+James Tobin,Economics,1981,Yale University
+Torsten Wiesel,Physiology or Medicine,1981,Harvard Medical School
+Baruj Benacerraf,Physiology or Medicine,1980,Harvard Medical School
+Paul Berg,Chemistry,1980,Stanford University
+James Cronin,Physics,1980,University of Chicago
+Jean Dausset,Physiology or Medicine,1980,University of Paris
+Val Logsdon Fitch,Physics,1980,Princeton University
+Walter Gilbert,Chemistry,1980,Harvard University
+Lawrence Klein,Economics,1980,University of Pennsylvania
+Frederick Sanger,Chemistry,1980,MRC Laboratory of Molecular Biology
+George Davis Snell,Physiology or Medicine,1980,Jackson Laboratory
+Herbert C. Brown,Chemistry,1979,Purdue University
+Allan MacLeod Cormack,Physiology or Medicine,1979,Tufts University
+Sheldon Glashow,Physics,1979,Harvard University
+Godfrey Hounsfield,Physiology or Medicine,1979,Central Research Laboratories
+W. Arthur Lewis,Economics,1979,Princeton University
+Abdus Salam,Physics,1979,Imperial College London
+Abdus Salam,Physics,1979,International Centre for Theoretical Physics
+Theodore Schultz,Economics,1979,University of Chicago
+Steven Weinberg,Physics,1979,Harvard University
+Georg Wittig,Chemistry,1979,Heidelberg University
+Werner Arber,Physiology or Medicine,1978,Biozentrum University of Basel
+Pyotr Kapitsa,Physics,1978,Academy of Sciences of the Soviet Union
+Peter D. Mitchell,Chemistry,1978,Glynn Research Laboratories
+Daniel Nathans,Physiology or Medicine,1978,Johns Hopkins School of Medicine
+Arno Allan Penzias,Physics,1978,Bell Labs
+Herbert A. Simon,Economics,1978,Carnegie Mellon University
+Hamilton O. Smith,Physiology or Medicine,1978,Johns Hopkins School of Medicine
+Robert Woodrow Wilson,Physics,1978,Bell Labs
+Philip W. Anderson,Physics,1977,Bell Labs
+Roger Guillemin,Physiology or Medicine,1977,Salk Institute for Biological Studies
+James Meade,Economics,1977,University of Cambridge
+Nevill Francis Mott,Physics,1977,University of Cambridge
+Bertil Ohlin,Economics,1977,Stockholm School of Economics
+Ilya Prigogine,Chemistry,1977,Université libre de Bruxelles
+Ilya Prigogine,Chemistry,1977,University of Texas at Austin
+Andrew Schally,Physiology or Medicine,1977,Veterans Administration Hospital New Orleans
+John Hasbrouck Van Vleck,Physics,1977,Harvard University
+Rosalyn Sussman Yalow,Physiology or Medicine,1977,James J. Peters VA Medical Center
+Baruch Samuel Blumberg,Physiology or Medicine,1976,Lankenau Institute for Medical Research
+Milton Friedman,Economics,1976,University of Chicago
+Daniel Carleton Gajdusek,Physiology or Medicine,1976,National Institutes of Health
+William Lipscomb,Chemistry,1976,Harvard University
+Burton Richter,Physics,1976,SLAC National Accelerator Laboratory
+Samuel C. C. Ting,Physics,1976,Massachusetts Institute of Technology
+David Baltimore,Physiology or Medicine,1975,Massachusetts Institute of Technology
+Aage Bohr,Physics,1975,Niels Bohr Institute
+John Cornforth,Chemistry,1975,University of Sussex
+Renato Dulbecco,Physiology or Medicine,1975,Imperial Cancer Research Fund
+Leonid Kantorovich,Economics,1975,Academy of Sciences of the Soviet Union
+Tjalling Koopmans,Economics,1975,Yale University
+Ben Roy Mottelson,Physics,1975,Nordic Institute for Theoretical Physics
+Vladimir Prelog,Chemistry,1975,ETH Zurich
+James Rainwater,Physics,1975,Columbia University
+Howard Martin Temin,Physiology or Medicine,1975,University of Wisconsin–Madison
+Albert Claude,Physiology or Medicine,1974,Université catholique de Louvain
+Christian de Duve,Physiology or Medicine,1974,Rockefeller University
+Christian de Duve,Physiology or Medicine,1974,Université catholique de Louvain
+Paul Flory,Chemistry,1974,Stanford University
+Antony Hewish,Physics,1974,University of Cambridge
+George Emil Palade,Physiology or Medicine,1974,Yale School of Medicine
+Martin Ryle,Physics,1974,University of Cambridge
+Leo Esaki,Physics,1973,Thomas J. Watson Research Center
+Ernst Otto Fischer,Chemistry,1973,Technical University of Munich
+Karl von Frisch,Physiology or Medicine,1973,Ludwig Maximilian University of Munich
+Ivar Giaever,Physics,1973,General Electric
+Brian Josephson,Physics,1973,University of Cambridge
+Wassily Leontief,Economics,1973,Harvard University
+Konrad Lorenz,Physiology or Medicine,1973,Konrad Lorenz Institute of Ethology
+Nikolaas Tinbergen,Physiology or Medicine,1973,University of Oxford
+Geoffrey Wilkinson,Chemistry,1973,Imperial College London
+Christian B. Anfinsen,Chemistry,1972,National Institutes of Health
+Kenneth Arrow,Economics,1972,Harvard University
+John Bardeen,Physics,1972,University of Illinois Urbana-Champaign
+Leon Cooper,Physics,1972,Brown University
+Gerald Edelman,Physiology or Medicine,1972,Rockefeller University
+John Hicks,Economics,1972,University of Oxford
+Stanford Moore,Chemistry,1972,Rockefeller University
+Rodney Robert Porter,Physiology or Medicine,1972,University of Oxford
+John Robert Schrieffer,Physics,1972,University of Pennsylvania
+William Howard Stein,Chemistry,1972,Rockefeller University
+Dennis Gabor,Physics,1971,Imperial College London
+Gerhard Herzberg,Chemistry,1971,National Research Council Canada
+Simon Kuznets,Economics,1971,Harvard University
+Earl Wilbur Sutherland Jr.,Physiology or Medicine,1971,Vanderbilt University
+Hannes Alfvén,Physics,1970,KTH Royal Institute of Technology
+Julius Axelrod,Physiology or Medicine,1970,National Institutes of Health
+Ulf von Euler,Physiology or Medicine,1970,Karolinska Institute
+Bernard Katz,Physiology or Medicine,1970,University College London
+Luis Federico Leloir,Chemistry,1970,University of Buenos Aires
+Louis Néel,Physics,1970,Grenoble Alpes University
+Paul Samuelson,Economics,1970,Massachusetts Institute of Technology
+Derek Barton,Chemistry,1969,Imperial College London
+Max Delbrück,Physiology or Medicine,1969,California Institute of Technology
+Ragnar Frisch,Economics,1969,University of Oslo
+Murray Gell-Mann,Physics,1969,California Institute of Technology
+Odd Hassel,Chemistry,1969,University of Oslo
+Alfred Hershey,Physiology or Medicine,1969,Carnegie Institution for Science
+Salvador Luria,Physiology or Medicine,1969,Massachusetts Institute of Technology
+Jan Tinbergen,Economics,1969,Netherlands School of Economics
+Luis Walter Alvarez,Physics,1968,University of California Berkeley
+Robert W. Holley,Physiology or Medicine,1968,Cornell University
+Har Gobind Khorana,Physiology or Medicine,1968,University of Wisconsin–Madison
+Marshall Warren Nirenberg,Physiology or Medicine,1968,National Institutes of Health
+Lars Onsager,Chemistry,1968,Yale University
+Hans Bethe,Physics,1967,Cornell University
+Manfred Eigen,Chemistry,1967,Max Planck Institute for Biophysical Chemistry
+Ragnar Granit,Physiology or Medicine,1967,Karolinska Institute
+Haldan Keffer Hartline,Physiology or Medicine,1967,Rockefeller University
+Ronald George Wreyford Norrish,Chemistry,1967,University of Cambridge
+George Porter,Physics,1967,Royal Institution
+George Wald,Physiology or Medicine,1967,Harvard University
+Charles Brenton Huggins,Physiology or Medicine,1966,University of Chicago
+Alfred Kastler,Physics,1966,ENS Paris
+Robert S. Mulliken,Chemistry,1966,University of Chicago
+Francis Peyton Rous,Physiology or Medicine,1966,Rockefeller University
+Richard Feynman,Physics,1965,California Institute of Technology
+François Jacob,Physiology or Medicine,1965,Pasteur Institute
+André Michel Lwoff,Physiology or Medicine,1965,Pasteur Institute
+Jacques Monod,Physiology or Medicine,1965,Pasteur Institute
+Julian Schwinger,Physics,1965,Harvard University
+Shin'ichirō Tomonaga,Physics,1965,University of Tsukuba
+Robert Burns Woodward,Chemistry,1965,Harvard University
+Nikolay Basov,Physics,1964,Lebedev Physical Institute
+Konrad Emil Bloch,Physiology or Medicine,1964,Harvard University
+Dorothy Hodgkin,Chemistry,1964,University of Oxford
+Feodor Lynen,Physiology or Medicine,1964,Max Planck Institute of Biochemistry
+Alexander Prokhorov,Physics,1964,Lebedev Physical Institute
+Charles H. Townes,Physics,1964,Massachusetts Institute of Technology
+John Eccles,Physiology or Medicine,1963,Australian National University
+Alan Hodgkin,Physiology or Medicine,1963,University of Cambridge
+Andrew Huxley,Physiology or Medicine,1963,University College London
+J. Hans D. Jensen,Physics,1963,Heidelberg University
+Maria Goeppert Mayer,Physics,1963,University of California San Diego
+Giulio Natta,Chemistry,1963,Polytechnic University of Milan
+Eugene Wigner,Physics,1963,Princeton University
+Karl Ziegler,Chemistry,1963,Max Planck Institute for Coal Research
+Francis Crick,Physiology or Medicine,1962,MRC Laboratory of Molecular Biology
+John Kendrew,Chemistry,1962,MRC Laboratory of Molecular Biology
+Lev Landau,Physics,1962,Academy of Sciences of the Soviet Union
+Linus Pauling,Peace,1962,California Institute of Technology
+Max Perutz,Chemistry,1962,MRC Laboratory of Molecular Biology
+James Watson,Physiology or Medicine,1962,Harvard University
+Maurice Wilkins,Physiology or Medicine,1962,University of London
+Georg von Békésy,Physiology or Medicine,1961,Harvard University
+Melvin Calvin,Chemistry,1961,University of California Berkeley
+Robert Hofstadter,Physics,1961,Stanford University
+Rudolf Mössbauer,Physics,1961,California Institute of Technology
+Rudolf Mössbauer,Physics,1961,Technical University of Munich
+Macfarlane Burnet,Physiology or Medicine,1960,WEHI
+Donald A. Glaser,Physics,1960,University of California Berkeley
+Willard Libby,Chemistry,1960,University of California Los Angeles
+Peter Medawar,Physiology or Medicine,1960,University College London
+Owen Chamberlain,Physics,1959,University of California Berkeley
+Jaroslav Heyrovský,Chemistry,1959,Czechoslovak Academy of Sciences
+Arthur Kornberg,Physiology or Medicine,1959,Stanford University
+Severo Ochoa,Physiology or Medicine,1959,New York University College of Medicine
+Emilio Segrè,Physics,1959,University of California Berkeley
+George Beadle,Physiology or Medicine,1958,California Institute of Technology
+Pavel Cherenkov,Physics,1958,Lebedev Physical Institute
+Ilya Frank,Physics,1958,Lebedev Physical Institute
+Ilya Frank,Physics,1958,Moscow State University
+Joshua Lederberg,Physiology or Medicine,1958,University of Wisconsin–Madison
+Frederick Sanger,Chemistry,1958,University of Cambridge
+Igor Tamm,Physics,1958,Lebedev Physical Institute
+Igor Tamm,Physics,1958,Moscow State University
+Edward Tatum,Physiology or Medicine,1958,Rockefeller University
+Daniel Bovet,Physiology or Medicine,1957,Istituto Superiore di Sanità
+Tsung-Dao Lee,Physics,1957,Columbia University
+Alexander R. Todd,Chemistry,1957,University of Cambridge
+Chen-ning Yang,Physics,1957,Institute for Advanced Study
+John Bardeen,Physics,1956,University of Illinois Urbana-Champaign
+Walter Houser Brattain,Physics,1956,Bell Labs
+André Frédéric Cournand,Physiology or Medicine,1956,Bellevue Hospital
+Werner Forssmann,Physiology or Medicine,1956,University of Mainz
+Cyril Norman Hinshelwood,Chemistry,1956,University of Oxford
+Dickinson W. Richards,Physiology or Medicine,1956,Columbia University
+Nikolay Semyonov,Chemistry,1956,Institute for Chemical Physics of the Academy of Sciences of the USSR
+Nikolay Semyonov,Chemistry,1956,Moscow State University
+William Shockley,Physics,1956,Beckman Instruments
+Polykarp Kusch,Physics,1955,Columbia University
+Willis Lamb,Physics,1955,Stanford University
+Hugo Theorell,Physiology or Medicine,1955,Karolinska Institute
+Vincent du Vigneaud,Chemistry,1955,Cornell University
+Max Born,Physics,1954,University of Edinburgh
+Walther Bothe,Physics,1954,Heidelberg University
+Walther Bothe,Physics,1954,Max Planck Institute for Medical Research
+John Franklin Enders,Physiology or Medicine,1954,Boston Children's Hospital
+John Franklin Enders,Physiology or Medicine,1954,Harvard Medical School
+Linus Pauling,Chemistry,1954,California Institute of Technology
+Frederick Chapman Robbins,Physiology or Medicine,1954,Case Western Reserve University
+Thomas Huckle Weller,Physiology or Medicine,1954,Boston Children's Hospital
+Hans Krebs,Physiology or Medicine,1953,University of Sheffield
+Fritz Albert Lipmann,Physiology or Medicine,1953,Harvard Medical School
+Fritz Albert Lipmann,Physiology or Medicine,1953,Massachusetts General Hospital
+Hermann Staudinger,Chemistry,1953,University of Freiburg
+Frits Zernike,Physics,1953,University of Groningen
+Felix Bloch,Physics,1952,Stanford University
+Archer Martin,Chemistry,1952,National Institute for Medical Research
+Edward Mills Purcell,Physics,1952,Harvard University
+Richard Laurence Millington Synge,Chemistry,1952,The Rowett Institute
+Selman Waksman,Physiology or Medicine,1952,Rutgers University
+John Cockcroft,Physics,1951,Atomic Energy Research Establishment
+Edwin McMillan,Chemistry,1951,University of California Berkeley
+Glenn T. Seaborg,Chemistry,1951,University of California Berkeley
+Max Theiler,Physiology or Medicine,1951,Rockefeller Foundation
+Ernest Walton,Physics,1951,Trinity College Dublin
+Kurt Alder,Chemistry,1950,University of Cologne
+Ralph Bunche,Peace,1950,Harvard University
+Otto Diels,Chemistry,1950,University of Kiel
+Philip Showalter Hench,Physiology or Medicine,1950,Mayo Clinic
+Edward Calvin Kendall,Physiology or Medicine,1950,Mayo Clinic
+C. F. Powell,Physics,1950,University of Bristol
+Tadeusz Reichstein,Physiology or Medicine,1950,University of Basel
+William Giauque,Chemistry,1949,University of California Berkeley
+Walter Rudolf Hess,Physiology or Medicine,1949,University of Zurich
+António Egas Moniz,Physiology or Medicine,1949,Neurological Institute Lisbon
+António Egas Moniz,Physiology or Medicine,1949,University of Lisbon
+Hideki Yukawa,Physics,1949,Columbia University
+Hideki Yukawa,Physics,1949,Kyoto University
+Patrick Blackett,Physics,1948,Victoria University of Manchester
+Paul Hermann Müller,Physiology or Medicine,1948,J. R. Geigy AG
+Arne Tiselius,Chemistry,1948,Uppsala University
+Edward Victor Appleton,Physics,1947,Department of Scientific and Industrial Research
+Carl Ferdinand Cori,Physiology or Medicine,1947,Washington University in St. Louis
+Gerty Cori,Physiology or Medicine,1947,Washington University in St. Louis
+Bernardo Houssay,Physiology or Medicine,1947,Instituto de Biología y Medicina Experimental
+Robert Robinson,Chemistry,1947,University of Oxford
+Percy Williams Bridgman,Physics,1946,Harvard University
+Hermann Joseph Muller,Physiology or Medicine,1946,Indiana University Bloomington
+John Howard Northrop,Chemistry,1946,Rockefeller University
+Wendell Meredith Stanley,Chemistry,1946,Rockefeller University
+James B. Sumner,Chemistry,1946,Cornell University
+Ernst Chain,Physiology or Medicine,1945,University of Oxford
+Alexander Fleming,Physiology or Medicine,1945,University of London
+Howard Florey,Physiology or Medicine,1945,University of Oxford
+Wolfgang Pauli,Physics,1945,Princeton University
+Artturi Ilmari Virtanen,Chemistry,1945,University of Helsinki
+Joseph Erlanger,Physiology or Medicine,1944,Washington University in St. Louis
+Herbert Spencer Gasser,Physiology or Medicine,1944,Rockefeller University
+Otto Hahn,Chemistry,1944,Max Planck Institute for Chemistry
+Isidor Isaac Rabi,Physics,1944,Columbia University
+Henrik Dam,Physiology or Medicine,1943,Technical University of Denmark
+Edward Adelbert Doisy,Physiology or Medicine,1943,Saint Louis University
+George de Hevesy,Chemistry,1943,Stockholm University
+Otto Stern,Physics,1943,Carnegie Mellon University
+Adolf Butenandt,Chemistry,1939,Humboldt University of Berlin
+Adolf Butenandt,Chemistry,1939,Max Planck Institute of Biochemistry
+Gerhard Domagk,Physiology or Medicine,1939,University of Münster
+Ernest Lawrence,Physics,1939,University of California Berkeley
+Leopold Ružička,Chemistry,1939,ETH Zurich
+Enrico Fermi,Physics,1938,Sapienza University of Rome
+Corneille Heymans,Physiology or Medicine,1938,Ghent University
+Richard Kuhn,Chemistry,1938,Heidelberg University
+Richard Kuhn,Chemistry,1938,Max Planck Institute for Medical Research
+Clinton Davisson,Physics,1937,Bell Labs
+Norman Haworth,Chemistry,1937,University of Birmingham
+Paul Karrer,Chemistry,1937,University of Zurich
+Albert Szent-Györgyi,Physiology or Medicine,1937,University of Szeged
+George Paget Thomson,Physics,1937,University of London
+Carl David Anderson,Physics,1936,California Institute of Technology
+Henry Hallett Dale,Physiology or Medicine,1936,National Institute for Medical Research
+Peter Debye,Chemistry,1936,Humboldt University of Berlin
+Peter Debye,Chemistry,1936,Max Planck Institute for Physics
+Victor Francis Hess,Physics,1936,University of Innsbruck
+Otto Loewi,Physiology or Medicine,1936,University of Graz
+James Chadwick,Physics,1935,University of Liverpool
+Frédéric Joliot-Curie,Chemistry,1935,Institut du Radium
+Irène Joliot-Curie,Chemistry,1935,Institut du Radium
+Hans Spemann,Physiology or Medicine,1935,University of Freiburg
+George Minot,Physiology or Medicine,1934,Harvard University
+William P. Murphy,Physiology or Medicine,1934,Harvard University
+William P. Murphy,Physiology or Medicine,1934,Peter Brent Brigham Hospital
+Harold Urey,Chemistry,1934,Columbia University
+George Whipple,Physiology or Medicine,1934,University of Rochester
+Paul Dirac,Physics,1933,University of Cambridge
+Thomas Hunt Morgan,Physiology or Medicine,1933,California Institute of Technology
+Erwin Schrödinger,Physics,1933,Humboldt University of Berlin
+Edgar Adrian,Physiology or Medicine,1932,University of Cambridge
+Werner Heisenberg,Physics,1932,Leipzig University
+Irving Langmuir,Chemistry,1932,General Electric
+Charles Scott Sherrington,Physiology or Medicine,1932,University of Oxford
+Friedrich Bergius,Chemistry,1931,Heidelberg University
+Friedrich Bergius,Chemistry,1931,IG Farben
+Carl Bosch,Chemistry,1931,Heidelberg University
+Carl Bosch,Chemistry,1931,IG Farben
+Nicholas Murray Butler,Peace,1931,Columbia University
+Otto Heinrich Warburg,Physiology or Medicine,1931,Max Planck Institute for Biology
+Hans Fischer,Chemistry,1930,Technical University of Munich
+Karl Landsteiner,Physiology or Medicine,1930,Rockefeller University
+C. V. Raman,Physics,1930,University of Calcutta
+Louis de Broglie,Physics,1929,Institut Henri Poincaré
+Christiaan Eijkman,Physiology or Medicine,1929,Utrecht University
+Hans von Euler-Chelpin,Chemistry,1929,Stockholm University
+Arthur Harden,Chemistry,1929,University of London
+Frederick Gowland Hopkins,Physiology or Medicine,1929,University of Cambridge
+Charles Nicolle,Physiology or Medicine,1928,Pasteur Institute
+Owen Willans Richardson,Physics,1928,University of London
+Adolf Windaus,Chemistry,1928,University of Göttingen
+Arthur Compton,Physics,1927,University of Chicago
+Julius Wagner-Jauregg,Physiology or Medicine,1927,University of Vienna
+Heinrich Otto Wieland,Chemistry,1927,Ludwig Maximilian University of Munich
+Charles Thomson Rees Wilson,Physics,1927,University of Cambridge
+Johannes Fibiger,Physiology or Medicine,1926,University of Copenhagen
+Jean Baptiste Perrin,Physics,1926,Sorbonne University
+Theodor Svedberg,Chemistry,1926,Uppsala University
+James Franck,Physics,1925,University of Göttingen
+Gustav Ludwig Hertz,Physics,1925,Halle University
+Richard Adolf Zsigmondy,Chemistry,1925,University of Göttingen
+Willem Einthoven,Physiology or Medicine,1924,Leiden University
+Manne Siegbahn,Physics,1924,Uppsala University
+Frederick Banting,Physiology or Medicine,1923,University of Toronto
+John Macleod,Physiology or Medicine,1923,University of Toronto
+Robert Andrews Millikan,Physics,1923,California Institute of Technology
+Fritz Pregl,Chemistry,1923,University of Graz
+Francis William Aston,Chemistry,1922,University of Cambridge
+Niels Bohr,Physics,1922,University of Copenhagen
+Archibald Hill,Physiology or Medicine,1922,University of London
+Otto Fritz Meyerhof,Physiology or Medicine,1922,University of Kiel
+Albert Einstein,Physics,1921,Max Planck Institute for Physics
+Frederick Soddy,Chemistry,1921,University of Oxford
+Charles Édouard Guillaume,Physics,1920,International Bureau of Weights and Measures
+August Krogh,Physiology or Medicine,1920,University of Copenhagen
+Walther Nernst,Chemistry,1920,Humboldt University of Berlin
+Jules Bordet,Physiology or Medicine,1919,Université libre de Bruxelles
+Johannes Stark,Physics,1919,University of Greifswald
+Fritz Haber,Chemistry,1918,Fritz Haber Institute of the Max Planck Society
+Max Planck,Physics,1918,Humboldt University of Berlin
+Charles Glover Barkla,Physics,1917,University of Edinburgh
+Lawrence Bragg,Physics,1915,Victoria University of Manchester
+William Henry Bragg,Physics,1915,University College London
+Richard Willstätter,Chemistry,1915,Ludwig Maximilian University of Munich
+Róbert Bárány,Physiology or Medicine,1914,University of Vienna
+Max von Laue,Physics,1914,Goethe University Frankfurt
+Theodore William Richards,Chemistry,1914,Harvard University
+Heike Kamerlingh Onnes,Physics,1913,Leiden University
+Charles Richet,Physiology or Medicine,1913,Sorbonne University
+Alfred Werner,Chemistry,1913,University of Zurich
+Alexis Carrel,Physiology or Medicine,1912,Rockefeller University
+Gustaf Dalén,Physics,1912,AGA AB
+Victor Grignard,Chemistry,1912,Nancy-Université
+Paul Sabatier,Chemistry,1912,University of Toulouse
+Marie Curie,Chemistry,1911,Sorbonne University
+Allvar Gullstrand,Physiology or Medicine,1911,Uppsala University
+Wilhelm Wien,Physics,1911,University of Würzburg
+Albrecht Kossel,Physiology or Medicine,1910,Heidelberg University
+Johannes Diderik van der Waals,Physics,1910,University of Amsterdam
+Otto Wallach,Chemistry,1910,University of Göttingen
+Karl Ferdinand Braun,Physics,1909,University of Strasbourg
+Emil Theodor Kocher,Physiology or Medicine,1909,University of Bern
+Guglielmo Marconi,Physics,1909,Marconi Company
+Wilhelm Ostwald,Chemistry,1909,Leipzig University
+Paul Ehrlich,Physiology or Medicine,1908,Paul Ehrlich Institute
+Paul Ehrlich,Physiology or Medicine,1908,University of Göttingen
+Gabriel Lippmann,Physics,1908,Sorbonne University
+Élie Metchnikoff,Physiology or Medicine,1908,Pasteur Institute
+Ernest Rutherford,Chemistry,1908,Victoria University of Manchester
+Eduard Buchner,Chemistry,1907,Agricultural University of Berlin
+Charles Louis Alphonse Laveran,Physiology or Medicine,1907,Pasteur Institute
+Albert A. Michelson,Physics,1907,University of Chicago
+Louis Renault,Peace,1907,Sorbonne University
+Camillo Golgi,Physiology or Medicine,1906,University of Pavia
+Henri Moissan,Chemistry,1906,Sorbonne University
+Santiago Ramón y Cajal,Physiology or Medicine,1906,Complutense University of Madrid
+J. J. Thomson,Physics,1906,University of Cambridge
+Adolf von Baeyer,Chemistry,1905,Ludwig Maximilian University of Munich
+Robert Koch,Physiology or Medicine,1905,Institute for Infectious Diseases
+Philipp Lenard,Physics,1905,University of Kiel
+Ivan Pavlov,Physiology or Medicine,1904,S. M. Kirov Military Medical Academy
+William Ramsay,Chemistry,1904,University College London
+John William Strutt 3rd Baron Rayleigh,Physics,1904,Royal Institution
+Svante Arrhenius,Chemistry,1903,Stockholm University
+Henri Becquerel,Physics,1903,École Polytechnique
+Pierre Curie,Physics,1903,ESPCI Paris
+Niels Ryberg Finsen,Physiology or Medicine,1903,Finsen Medical Light Institute
+Emil Fischer,Chemistry,1902,Humboldt University of Berlin
+Hendrik Lorentz,Physics,1902,Leiden University
+Ronald Ross,Physiology or Medicine,1902,University of Liverpool
+Pieter Zeeman,Physics,1902,University of Amsterdam
+Emil von Behring,Physiology or Medicine,1901,University of Marburg
+Jacobus Henricus van 't Hoff,Chemistry,1901,Humboldt University of Berlin
+Wilhelm Röntgen,Physics,1901,Ludwig Maximilian University of Munich
