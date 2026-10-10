@@ -1,0 +1,452 @@
+                                                              A. J. Young
+                                                             October 2026
+
+
+           Young's Definitive Style Guide for the Latin Alphabet
+
+
+Status of This Memo
+
+   This memo defines a style standard for text written in the Latin
+   alphabet. It is a draft, and is incomplete in places. Distribution
+   of this memo is unlimited.
+
+Abstract
+
+   This document specifies conventions for capitalisation, acronyms,
+   punctuation, custom notation, and numerals in text written in the
+   [extended] Latin alphabet.
+
+Table of Contents
+
+   1.  Introduction
+       1.1.  Requirements Language
+       1.2.  Notation Used in This Document
+   2.  Upper Case
+       2.1.  Sentence Heads and Tails
+       2.2.  Proper Nouns
+   3.  Acronyms
+   4.  Punctuation
+       4.1.  Colons
+       4.2.  Dashes
+       4.3.  Semicolons
+       4.4.  Question Marks
+       4.5.  Exclamation Marks
+       4.6.  Commas
+       4.7.  Ellipses
+       4.8.  Periods
+       4.9.  Quotation Marks
+       4.10. Nested Quotation Marks
+       4.11. Slashes
+       4.12. Brackets
+       4.13. Defunct Punctuation
+   5.  Custom Notation
+   6.  Numerals
+   7.  Open Issues
+
+
+1.  Introduction
+
+   This document sets out a single, consistent style for writing in the
+   Latin alphabet. Each section gives one or more standards, followed by
+   examples and, where available, an explanation of the reasoning.
+
+1.1.  Requirements Language
+
+   The key words "MUST", "MUST NOT", "SHOULD", "SHOULD NOT", and "MAY"
+   in this document are to be interpreted as described in RFC 2119.
+
+1.2.  Notation Used in This Document
+
+   Examples are marked as follows:
+
+      Example:    A conforming example.
+      Not:        A non-conforming example ...
+      Instead:    ... and its conforming replacement.
+      Also:       An equally acceptable alternative.
+
+
+2.  Upper Case
+
+2.1.  Sentence Heads and Tails
+
+   Standard 2.1.1: Sentences MUST begin with a single capital letter. A
+   capital letter is defined to be «the upper case form of a single
+   character from the [extended] Latin alphabet».
+
+      Example:  The quick brown fox jumped over the lazy dog.
+
+      Not:      LLamas are an animal native to South America.
+      Instead:  Llamas are an animal native to South America.
+
+      Not:      IJsselmeer is the name of the closed off inland bay in
+                the central Netherlands.
+      Instead:  Ijsselmeer is the name of the closed off inland bay in
+                the central Netherlands.
+
+   Standard 2.1.2: All characters in a sentence other than the first
+   character MUST be lower case, unless covered by one of the exceptions
+   in this document.
+
+   Explanation:
+
+      This follows a common convention among all dual case languages to
+      capitalise the first characters of sentences. We accept this
+      convention, for it helps guide the eye towards the beginnings of
+      sentences and passages.
+
+      All other letters should be lower case, firstly because they are
+      more readable, and secondly because this makes the text thereafter
+      more predictable, including for searching text.
+
+      We restrict the use of digraphs because digraphs are language
+      specific and inconsistent. Some languages treat digraphs as 2
+      characters for collation, while others treat the same digraph as
+      1 character. In loanwords, readers should not be expected to know
+      rules for digraphs. It is most consistent to treat the Latin
+      alphabet as having exactly 26 letters, and that these are always
+      separate.
+
+2.2.  Proper Nouns
+
+   Standard 2.2.1: Proper nouns MUST be capitalised in all contexts, but
+   only when used as a noun. Words which take their root from a proper
+   noun MUST NOT be capitalised. Proper nouns normally include «the»
+   where appropriate.
+
+      Example:  I just called Mary Goldberg to let her know that im
+                home.
+
+      Example:  Did you know that she studied at Cambridge University?
+
+      Not:      I thought she studied at the University of Oxford?
+      Instead:  I thought she studied at The University Of Oxford?
+
+      Not:      California is a state in the USA.
+      Instead:  California is a state in The USA.
+
+      Not:      I believe in god.
+      Instead:  I believe in God.
+
+      Not:      I believe in a God.
+      Instead:  I believe in a god.
+
+      Not:      Did you know that they're German?
+      Instead:  Did you know that they're german?
+
+
+3.  Acronyms
+
+   Standard 3.1: Acronyms, including initialisms, MUST be written as
+   consecutive upper case letters with no spaces or delimiters between
+   them.
+
+      Example:  The US is a signatory country to NATO.
+
+      Example:  As of 2018, the permanent UN security council members
+                are China, France, Russia, The UK, and The USA.
+
+   Standard 3.2: Acronyms which are not initialisms MAY be written in
+   lower case letters. This SHOULD be kept consistent with the rules on
+   proper nouns (Section 2.2).
+
+      Not:      The US is a signatory country to nato.
+      Instead:  The US is a signatory country to NATO.
+      Also:     The US is a signatory country to Nato.
+
+      Example:  UNICEF is a subsidiary of the UN.
+      Also:     Unicef is a subsidiary of the UN.
+
+
+4.  Punctuation
+
+4.1.  Colons
+
+   Standard 4.1.1: Colons connect related, otherwise incomplete
+   sentences.
+
+   Standard 4.1.2: Colons describe preceding sentences, including with
+   further deductive or descriptive statements.
+
+   Standard 4.1.3: Colons introduce dialog, both in plays and in
+   written passages.
+
+   Standard 4.1.4: Colons indicate omission of text, including letters,
+   words, or sections (see also Section 4.7).
+
+      Example:  Kings Cross S:t Pancras
+
+      Example:  D:r Cruz runs an office on the edge of town.
+
+      Example:  The : fox jumps :.
+
+   Standard 4.1.5: Colons are used in enumerated lists to separate
+   numbers and the following text.
+
+      Example:  We need to
+
+                   1: find the bag;
+                   2: get the money;
+                   3: be home in time for dinner.
+
+4.2.  Dashes
+
+   Standard 4.2.1: Dashes denote ranges of time and space.
+
+      Example:  The French and Indian War (1754 – 1763) was fought in
+                western Pennsylvania and along the present US – Canada
+                border.
+
+      Example:  The Tokyo – Osaka express train departs at 3.15 PM.
+
+   Standard 4.2.2: Dashes denote relation in certain contexts.
+
+      Example:  The US – Canada border spans east – west.
+
+      Example:  The Eagles beat the Hawks 31 – 0.
+
+   Standard 4.2.3: Dashes denote subcategorisation, including in dates
+   and locations. When used with numbers, the dash MUST be written
+   without surrounding spaces.
+
+      Example:  The date is 2018–11–3.
+
+      Example:  He addressed the package to «China – Beijing –
+                Wangfujing».
+
+      Example:  Welcome to the Computing 3–12 course, where we cover
+                advanced computer architecture.
+
+      Example:  Answer question 1–a first.
+
+   Standard 4.2.4: All dashes MUST be en dashes (–).
+
+4.3.  Semicolons
+
+   Standard 4.3.1: Semicolons are used for iteration, and in place of
+   iterative commas.
+
+      Example:  The people present were Jamie, a man from New Zealand;
+                John, the milkman's son; and George, a gaunt kind of
+                man with no friends.
+
+      Example:  Several fast food restaurants can be found within the
+                following cities: London, England; Paris, France;
+                Dublin, Ireland; Madrid, Spain.
+
+      Not:      Here are three examples of familiar sequences: one,
+                two, three; a, b, c; first, second, third.
+      Instead:  Here are three examples of familiar sequences: «one;
+                two; three»; «a; b; c»; «first; second; third».
+
+4.4.  Question Marks
+
+   Standard 4.4.1: Opening and closing question marks (¿ ?) MUST be
+   used to enclose question sentences.
+
+      Example:  She came to me and asked: «¿What time is it?».
+
+      Example:  Čingis Xan (¿1162? – 1227) was the founder of the
+                Mongol Empire.
+
+   Standard 4.4.2: Opening and closing question marks follow the same
+   rules as opening and closing brackets, respectively.
+
+   Standard 4.4.3: Question marks MAY be used one after another in
+   conjunction.
+
+      Example:  ¿Is it written in good form? ¿Style? ¿Meaning?
+
+   Standard 4.4.4: Question marks take the place of periods when used
+   at the end of sentences.
+
+4.5.  Exclamation Marks
+
+   Standard 4.5.1: Exclamation marks (¡ !) follow the same rules as
+   question marks (Section 4.4).
+
+      Example:  «¡Stop!» yelled the guard.
+
+4.6.  Commas
+
+   Standard 4.6.1: Commas are principally used for the separation of
+   clauses. A comma appears at the end of a phrase, directly after the
+   final word of the phrase, and is followed by a single space.
+
+   Standard 4.6.2: When clauses are separated with conjunctions, the
+   comma MUST appear before the conjunction.
+
+      Example:  Mary walked to the party, but she couldnt walk home.
+
+      Example:  Designer clothes are silly, and i can't afford them
+                anyway.
+
+      Example:  ¡Don't push that button, or twelve tons of high
+                explosives will go off right under our feet!
+
+   Standard 4.6.3: Commas are advised, but OPTIONAL, after sentence
+   initiating adverbs such as «however»; «in fact»; and
+   «nevertheless».
+
+      Example:  Therefore, a comma would be appropriate in this
+                sentence.
+      Also:     Therefore a comma would be appropriate in this
+                sentence.
+
+      Example:  Nevertheless, it is not needed.
+      Also:     Nevertheless it is not needed.
+
+   Standard 4.6.4: When adverbs are used mid phrase, commas SHOULD be
+   used.
+
+      Example:  In this sentence, furthermore, commas would be called
+                for.
+
+      Not:      This sentence is similar; however, a semicolon is used
+                as well.
+      Instead:  This sentence is similar. However, a semicolon is used
+                as well.
+
+   Standard 4.6.5: Geographical names MUST NOT include commas.
+
+      Example:  Take this package to Tallahassee Florida.
+
+   Standard 4.6.6: Dates MUST NOT include commas.
+
+      Example:  February 3rd 1922: on that day I discovered the meaning
+                of loss.
+
+   Standard 4.6.7: The preferred notation for parenthetical phrases is
+   the bracket (Section 4.12).
+
+4.7.  Ellipses
+
+   Standard 4.7.1: Ellipses MUST be written as 2 unspaced periods (..).
+
+   Standard 4.7.2: Ellipses indicate omission of text, including
+   letters, words, or sections.
+
+   Standard 4.7.3: Ellipses indicate silence.
+
+   Standard 4.7.4: Ellipses MAY denote ranges of time and space (see
+   also Section 4.2).
+
+      Example:  The French and Indian War (1754 .. 1763) was fought in
+                western Pennsylvania and along the present US – Canada
+                border.
+
+      Example:  The Tokyo .. Osaka express train departs at 3.15 PM.
+
+4.8.  Periods
+
+   Standard 4.8.1: Periods appear at the end of sentences, directly
+   after the final word of the sentence, and are followed by a single
+   space. The character immediately after a period SHOULD be a capital
+   letter.
+
+4.9.  Quotation Marks
+
+   Standard 4.9.1: By default, double angle quotes («..») SHOULD be
+   used to indicate segments of text with a common purpose. This
+   includes speech, thoughts, and quotations.
+
+      Example:  «Come closer.» he said softly.
+
+      Example:  Hamlet: «To be or not to be, that is the question.»
+
+      Example:  At the time i thought «Gosh, that's a nice dress.».
+
+      Example:  In the words of Jean-Paul Sartre: «Man is condemned to
+                be free; because once thrown into the world, he is
+                responsible for everything he does.».
+
+4.10.  Nested Quotation Marks
+
+   Standard 4.10.1: Nested quotation marks MUST NOT differ from the
+   outermost quotation marks. Where clarity is warranted, the level of
+   nesting MAY be indicated by a subscript number.
+
+      Example:  My sister says «The man told me «You need to leave
+                now»».
+
+      Example:  My sister says «₁The man told me «₂You need to leave
+                now»₂»₁.
+
+4.11.  Slashes
+
+   Standard 4.11.1: Slashes indicate alternative choices.
+
+      Example:  ¿Do you agree Y / N?
+
+   Standard 4.11.2: Slashes indicate choices in the case of ambiguity,
+   particularly when this affects word choice. In some cases, round
+   brackets may be favoured (see Section 4.12).
+
+      Example:  The waiter / waitress hasnt come yet.
+
+      Example:  The designation Assyrian / Chaldean / Syriac appeared on
+                american and swedish censuses in response to the Syriac
+                naming dispute.
+
+      Example:  If he / she wants to come, then that is completely
+                fine.
+
+4.12.  Brackets
+
+   Standard 4.12.1: Round brackets MAY be used to indicate choices in
+   the case of ambiguity, particularly when this affects word choice
+   (see also Section 4.11).
+
+      Example:  If (s)he wants to come, then that is completely fine.
+
+      Example:  The culprit(s) are still on the run.
+
+   Standard 4.12.2: Asides are indicated by square brackets ([ ]).
+
+      Example:  If the dog falls ill [ which I doubt will happen ] then
+                we can take it to the vet.
+
+      Example:  If I slip on ice [ funny though that would be ] its
+                likely to hurt.
+
+      Example:  The lion [ the biggest of the cats ] [ the king of the
+                jungle ] sat in its enclosure unstirred by the
+                photographers around it.
+
+      Example:  [ Written on a list ] «Buy eggs [ done ].»
+
+4.13.  Defunct Punctuation
+
+   The following punctuation is NOT RECOMMENDED for common use. It is
+   listed alphabetically so that readers may look these characters up.
+   Use of any of them is considered bad practice.
+
+      1: em dash (—)
+      2: hyphen (except as a letter of the Latin alphabet)
+      3: hyphen-minus (-)
+      4: quotation marks (" " “ ” ' ' ‘ ’)
+
+
+5.  Custom Notation
+
+   Standard 5.1: Custom notation MAY be introduced, such as in plays,
+   using the backslash and curly brackets to indicate that text is to be
+   considered a certain way. Custom notation MUST be defined either
+   before or alongside its first appearance within a text.
+
+      Example:  Hamlet: \aside{A little more than kin, and less than
+                kind.}
+
+
+6.  Numerals
+
+   Standard 6.1: Numbers in enumerated lists MUST be followed by a
+   colon (see Standard 4.1.5).
+
+
+7.  Open Issues
+
+   1: The Introduction and Abstract are to be expanded.
+   2: The use of vocative commas is not yet specified.
+   3: Explanations are yet to be written for dashes and quotation marks.
+   4: Section 6 (Numerals) is incomplete.
